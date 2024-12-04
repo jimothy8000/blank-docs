@@ -1,0 +1,4 @@
+---
+title: Pricing
+hidden: false
+---
