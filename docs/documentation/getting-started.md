@@ -9,7 +9,14 @@ Welcome to ReadMe! :owlbert:
 
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
-<br />
+i name="dog" />
+
+```mermaid
+flowchart LR 
+ A --- B[fa:fa-spinner B] 
+ B --> C[fa:fa-check C] 
+ B --> D[fa:fa-ban D]
+```
 
 # 📝 Customize your docs
 
