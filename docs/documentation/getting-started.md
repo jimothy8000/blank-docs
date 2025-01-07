@@ -9,7 +9,7 @@ Welcome to ReadMe! :owlbert:
 
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
-\<i name="dog" />
+<Card />
 
 ```mermaid
 flowchart LR 
