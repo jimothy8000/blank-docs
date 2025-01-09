@@ -1,0 +1,4 @@
+---
+title: /embed
+hidden: false
+---
