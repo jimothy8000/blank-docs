@@ -1,0 +1,6 @@
+- createvehicles
+- updatevehicles
+- partupdatevehicles
+- createassociatedvehicles
+- readvehicle
+- deletevehicle

@@ -1,0 +1,4 @@
+- createalertconfigurations
+- updatealertconfigurations
+- patchalertconfigurations
+- deletealertconfiguration

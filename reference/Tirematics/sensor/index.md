@@ -1,0 +1,4 @@
+---
+title: Sensor
+hidden: false
+---
