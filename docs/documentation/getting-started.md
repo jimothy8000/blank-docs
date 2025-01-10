@@ -9,7 +9,9 @@ Welcome to ReadMe! :owlbert:
 
 You're on your way to building an awesome developer hub! Here's some of the things you'll want to check out.
 
-<Card />
+\<Card />
+
+\{/\* invalid code
 
 ```mermaid
 flowchart LR 
@@ -17,6 +19,8 @@ flowchart LR
  B --> C[fa:fa-check C] 
  B --> D[fa:fa-ban D]
 ```
+
+<br />
 
 # 📝 Customize your docs
 
