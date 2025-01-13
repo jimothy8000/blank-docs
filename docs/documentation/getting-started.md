@@ -13,6 +13,22 @@ You're on your way to building an awesome developer hub! Here's some of the thin
 
 \{/\* invalid code
 
+\<Columns layout="auto">
+&#x20; \<Column>
+&#x20;   Neque porro quisquam est qui dolorem ipsum quia
+&#x20; \</Column>
+
+&#x20; \<Column>
+&#x20;   \*Lorem ipsum dolor sit amet, consectetur adipiscing elit\*
+&#x20; \</Column>
+&#x20;&#x20;
+&#x20; \<Column>
+&#x20;   \> Ut enim ad minim veniam, quis nostrud ullamco
+&#x20; \</C
+\</Columns>
+
+
+
 ```mermaid
 flowchart LR 
  A --- B[fa:fa-spinner B] 
