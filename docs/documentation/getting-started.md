@@ -7,9 +7,9 @@ hidden: false
 link:
   new_tab: false
 ---
-<Callout icon="🚧">
-  This page is a work in progress and will be updated soon with detailed information.
-</Callout>
+> 🚧 This page is a work in progress and will be updated soon with detailed information.
+
+<Image align="center" src="https://files.readme.io/4696c4c904d0099dacc958ab2de69d1a5f569cf564f7172b50dae382aeef8ae6-Update_an_existing_recipe-20250711-1042472x.png" />
 
 ## Introduction
 
@@ -18,8 +18,9 @@ Welcome to hellobutts! This guide will walk you through the essential steps to g
 ## Prerequisites
 
 Before you begin, make sure you have the following:
-- Prerequisite 1
-- Prerequisite 2
+
+* Prerequisite 1
+* Prerequisite 2
 
 ## Installation
 
@@ -31,7 +32,7 @@ npm install hellobutts
 
 ## Configuration
 
-After installation, you'll need to configure hellobutts. 
+After installation, you'll need to configure hellobutts.
 
 ## Making Your First API Call
 
@@ -41,6 +42,6 @@ Now that you're all set up, let's make your first API call to ensure everything 
 
 Congratulations! You've successfully set up and used hellobutts. Here are a few links to help you on your journey:
 
-- [API Reference](/reference)
-- [Guides](/guides)
-- [Community Forum](https://community.hellobutts.com)
+* [API Reference](/reference)
+* [Guides](/guides)
+* [Community Forum](https://community.hellobutts.com)
