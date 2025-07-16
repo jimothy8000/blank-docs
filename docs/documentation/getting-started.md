@@ -26,6 +26,12 @@ Before you begin, make sure you have the following:
 * Prerequisite 1
 * Prerequisite 2
 
+<br />
+
+\<CoolCard header="Customize" href=https\://docs.readme.com/main/docs/design-themes" icon="fa-duotone fa-solid fa-brush" text="Checkout logo, brand, and theme options" />
+
+<br />
+
 ## Installation
 
 You can install hellobutts using your favorite package manager.
