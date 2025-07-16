@@ -19,6 +19,8 @@ link:
 
 Welcome to hellobutts! This guide will walk you through the essential steps to get you started. We'll cover everything from installation to making your first API call.
 
+<p class="blank-line" />
+
 ## Prerequisites
 
 Before you begin, make sure you have the following:
@@ -28,7 +30,7 @@ Before you begin, make sure you have the following:
 
 <br />
 
-\<CoolCard header="Customize" href=https\://docs.readme.com/main/docs/design-themes" icon="fa-duotone fa-solid fa-brush" text="Checkout logo, brand, and theme options" />
+\<CoolCard header="Customize" href=[https://docs.readme.com/main/docs/design-themes](https://docs.readme.com/main/docs/design-themes)" icon="fa-duotone fa-solid fa-brush" text="Checkout logo, brand, and theme options" />
 
 <br />
 
