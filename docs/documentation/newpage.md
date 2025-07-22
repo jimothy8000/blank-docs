@@ -2,7 +2,9 @@
 title: newpage
 deprecated: false
 hidden: false
+link:
+  new_tab: false
 metadata:
   robots: index
 ---
-new change test
+concise change test
