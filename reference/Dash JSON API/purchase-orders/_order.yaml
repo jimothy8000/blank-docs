@@ -1,0 +1,4 @@
+- get_purchase-orders
+- post_purchase-orders
+- get_purchase-orders-id
+- patch_purchase-orders-id

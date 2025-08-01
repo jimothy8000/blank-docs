@@ -1,0 +1,5 @@
+- get_registrations
+- post_registrations
+- get_registrations-id
+- patch_registrations-id
+- delete_registrations-id

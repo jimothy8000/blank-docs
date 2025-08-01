@@ -1,0 +1,5 @@
+- get_cash-register-layouts
+- post_cash-register-layouts
+- get_cash-register-layouts-id
+- patch_cash-register-layouts-id
+- delete_cash-register-layouts-id

@@ -1,0 +1,5 @@
+- get_cash-register-pages
+- post_cash-register-pages
+- get_cash-register-pages-id
+- patch_cash-register-pages-id
+- delete_cash-register-pages-id

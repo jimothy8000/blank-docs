@@ -1,0 +1,5 @@
+- get_priorities
+- post_priorities
+- get_priorities-id
+- patch_priorities-id
+- delete_priorities-id

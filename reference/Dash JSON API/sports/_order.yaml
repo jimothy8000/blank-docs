@@ -1,0 +1,4 @@
+- get_sports
+- post_sports
+- get_sports-id
+- patch_sports-id

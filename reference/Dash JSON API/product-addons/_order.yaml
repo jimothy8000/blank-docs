@@ -1,0 +1,5 @@
+- get_product-addons
+- post_product-addons
+- get_product-addons-id
+- patch_product-addons-id
+- delete_product-addons-id

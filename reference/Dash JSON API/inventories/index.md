@@ -1,0 +1,4 @@
+---
+title: Inventories
+hidden: false
+---

@@ -1,0 +1,5 @@
+- get_event-comments
+- post_event-comments
+- get_event-comments-id
+- patch_event-comments-id
+- delete_event-comments-id

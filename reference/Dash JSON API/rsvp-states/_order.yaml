@@ -1,0 +1,4 @@
+- get_rsvp-states
+- post_rsvp-states
+- get_rsvp-states-id
+- patch_rsvp-states-id

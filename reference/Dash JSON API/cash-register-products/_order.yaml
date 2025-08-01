@@ -1,0 +1,5 @@
+- get_cash-register-products
+- post_cash-register-products
+- get_cash-register-products-id
+- patch_cash-register-products-id
+- delete_cash-register-products-id

@@ -1,0 +1,5 @@
+- get_stat-events
+- post_stat-events
+- get_stat-events-id
+- patch_stat-events-id
+- delete_stat-events-id

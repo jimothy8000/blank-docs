@@ -1,0 +1,4 @@
+- get_team-messages
+- post_team-messages
+- get_team-messages-id
+- patch_team-messages-id

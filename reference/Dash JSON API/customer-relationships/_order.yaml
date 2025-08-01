@@ -1,0 +1,5 @@
+- get_customer-relationships
+- post_customer-relationships
+- get_customer-relationships-id
+- patch_customer-relationships-id
+- delete_customer-relationships-id

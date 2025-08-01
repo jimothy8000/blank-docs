@@ -1,0 +1,5 @@
+- get_printers
+- post_printers
+- get_printers-id
+- patch_printers-id
+- delete_printers-id

@@ -1,0 +1,4 @@
+---
+title: Expenses
+hidden: false
+---

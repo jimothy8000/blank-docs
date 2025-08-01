@@ -1,0 +1,4 @@
+- get_product-categories
+- post_product-categories
+- get_product-categories-id
+- patch_product-categories-id

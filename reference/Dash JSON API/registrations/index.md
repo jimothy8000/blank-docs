@@ -1,0 +1,4 @@
+---
+title: Registrations
+hidden: false
+---

@@ -1,0 +1,5 @@
+- get_blocking-rules
+- post_blocking-rules
+- get_blocking-rules-id
+- patch_blocking-rules-id
+- delete_blocking-rules-id

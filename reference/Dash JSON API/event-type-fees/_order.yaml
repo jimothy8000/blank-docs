@@ -1,0 +1,5 @@
+- get_event-type-fees
+- post_event-type-fees
+- get_event-type-fees-id
+- patch_event-type-fees-id
+- delete_event-type-fees-id

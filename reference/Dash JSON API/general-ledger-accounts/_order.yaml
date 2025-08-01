@@ -1,0 +1,5 @@
+- get_general-ledger-accounts
+- post_general-ledger-accounts
+- get_general-ledger-accounts-id
+- patch_general-ledger-accounts-id
+- delete_general-ledger-accounts-id
