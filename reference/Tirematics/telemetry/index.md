@@ -1,4 +1,0 @@
----
-title: Telemetry
-hidden: false
----

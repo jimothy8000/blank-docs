@@ -1,4 +1,0 @@
----
-title: Inspection
-hidden: false
----
