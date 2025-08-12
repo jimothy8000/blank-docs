@@ -1,4 +1,0 @@
----
-title: Stats
-hidden: false
----

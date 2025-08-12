@@ -1,4 +1,0 @@
----
-title: Printers
-hidden: false
----

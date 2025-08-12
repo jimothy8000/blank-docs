@@ -1,4 +1,0 @@
----
-title: Lockers
-hidden: false
----

@@ -1,4 +1,0 @@
----
-title: Labels
-hidden: false
----

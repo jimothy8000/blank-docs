@@ -1,4 +1,0 @@
----
-title: Addresses
-hidden: false
----

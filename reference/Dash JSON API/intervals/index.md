@@ -1,4 +1,0 @@
----
-title: Intervals
-hidden: false
----

@@ -1,4 +1,0 @@
----
-title: Facilities
-hidden: false
----

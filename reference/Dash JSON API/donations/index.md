@@ -1,4 +1,0 @@
----
-title: Donations
-hidden: false
----

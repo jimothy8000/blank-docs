@@ -1,4 +1,0 @@
----
-title: Bookings
-hidden: false
----

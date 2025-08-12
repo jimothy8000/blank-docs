@@ -1,4 +1,0 @@
----
-title: Signatures
-hidden: false
----
