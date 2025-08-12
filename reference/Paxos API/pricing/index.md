@@ -1,4 +1,0 @@
----
-title: Pricing
-hidden: false
----
