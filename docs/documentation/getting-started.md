@@ -1,11 +1,16 @@
 ---
-title: Getting Started with hellobuttstest
+title: SEO
 excerpt: >-
   This page will help you get started with hellobutts. You'll be up and running
   in a jiffy!
 hidden: false
 link:
   new_tab: false
+metadata:
+  title: hello
+  description: world
+  keywords:
+    - keyword
 ---
 <Callout icon="🚧" theme="warn">
 
