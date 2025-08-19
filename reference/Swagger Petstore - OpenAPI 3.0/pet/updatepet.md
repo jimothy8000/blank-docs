@@ -6,3 +6,4 @@ api:
   operationId: updatePet
 hidden: true
 ---
+manual editor
