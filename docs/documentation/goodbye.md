@@ -1,7 +1,7 @@
 ---
-title: goodbye
+title: Hidden
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
