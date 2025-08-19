@@ -7,21 +7,8 @@ link:
 metadata:
   robots: index
 ---
-<Accordion title="Getting Started" icon="book">
-  This section provides a quick overview to get you started with our service.
-</Accordion>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<Cards columns="2">
-  <Card title="Tutorials" href="/tutorials" icon="video">
-    Follow our step-by-step tutorials to learn how to use the features.
-  </Card>
-  <Card title="Examples" href="/examples" icon="code">
-    Explore various code examples to see how everything works in practice.
-  </Card>
-  <Card title="API Reference" href="/api-reference" icon="book-open">
-    Detailed documentation of all available API endpoints and models.
-  </Card>
-  <Card title="Support" href="/support" icon="life-ring">
-    Find answers to common questions or contact our support team.
-  </Card>
-</Cards>
+Nunc vel felis nec mauris dictum feugiat. Aliquam erat volutpat. Integer sit amet ex eu nulla consectetur faucibus. Donec a purus non magna lacinia vestibulum at in velit. Praesent id justo et ipsum ultricies consectetur. Proin eu purus at metus eleifend efficitur.
+
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus eu nisi quis turpis aliquet vehicula. Nullam nec quam nec nunc luctus interdum. Sed eget libero eu felis eleifend tristique at non libero.
