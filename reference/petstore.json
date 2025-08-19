@@ -428,7 +428,7 @@
           }
         ]
       },
-      "delete": {
+      "patch": {
         "tags": [
           "pet"
         ],
