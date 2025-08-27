@@ -7,6 +7,9 @@ link:
 metadata:
   robots: index
 ---
+
+My suggestion <3
+
 <Accordion title="Getting Started" icon="book">
   This section provides a quick overview to get you started with our service.
 </Accordion>
